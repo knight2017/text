@@ -78,5 +78,5 @@
 # end
 
 
-a = "dsasdawfsdsf"
-p a[-4..-1]
+# a = "dsasdawfsdsf"
+# p a[-4..-1]
